@@ -1,5 +1,7 @@
 # LGO-18 / P18 Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21288307.svg)](https://doi.org/10.5281/zenodo.21288307)
+
 **Richard Sardini · July 2026**
 
 A geometric model of prime number distribution built on the lemniscate of Bernoulli,
