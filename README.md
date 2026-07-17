@@ -1,6 +1,6 @@
 # LGO-18 / P18 Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21288307.svg)](https://doi.org/10.5281/zenodo.21288307)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21288306.svg)](https://doi.org/10.5281/zenodo.21288306)
 
 **Richard Sardini · July 2026**
 
