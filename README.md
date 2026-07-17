@@ -31,6 +31,24 @@ operating system.
 - **Release 2** — A Geometric Derivation of the Fine Structure Constant *(physics.gen-ph)*
 - **Correction Notice** — Applies to all prior Zenodo/GitHub publications
 
+## Changelog
+
+### v1.3.1 (July 2026)
+- Part L: Stellar model of prime gaps — twin primes as neutron stars with
+  ±44% inner shell compression. Three twin types: isolated (47.5%),
+  cousin (29.3%), sexy (23.2%). Three composite signals including
+  algebraic proof odd_sum − even_sum = −(lemniscate apex).
+- Part LI: Complete 12-step composite derivation. Composite spectral
+  identity: π_A(x) = x/3 − π(x) + 2 exactly. Composite spectral
+  set = {2,3}. Partition identity: ALLOWED primes ∪ ALLOWED composites
+  = ALLOWED integers − {1}. Composite counting 1000× smoother than prime.
+- Part LII: Exact group formulas:
+  S_A(n) = 3×T(n) + ⌈n/2⌉  [Group A, r18(pL)∈{1,7,13}]
+  S_B(n) = 3×T(n) − ⌈n/2⌉  [Group B, r18(pL)∈{5,11,17}]
+  Binary star layer profiles corrected per twin type.
+- Paper v2: 8 pages, 11 sections, 16 verified results.
+  New sections: §6 Stellar Model, §7 Composite Spectral Identity.
+
 ## The Core Idea
 
 Every prime P(n) is a unique coordinate on the lemniscate of Bernoulli.
