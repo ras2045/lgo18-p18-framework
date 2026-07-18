@@ -29,6 +29,7 @@ operating system.
 
 - **Release 1** — Prime Gap Structure and the DGI *(math.NT)*
 - **Release 2** — A Geometric Derivation of the Fine Structure Constant *(physics.gen-ph)*
+- **The P18 Lemniscate Framework** — A Geometric Theory of Universal Structure, Scale Invariance, and Deterministic Causality. 31 pages, Parts I–XV. [DOI: 10.5281/zenodo.21422546](https://doi.org/10.5281/zenodo.21422546)
 - **Correction Notice** — Applies to all prior Zenodo/GitHub publications
 
 ## Changelog
