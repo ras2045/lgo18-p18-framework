@@ -29,7 +29,7 @@ operating system.
 
 - **Release 1** — Prime Gap Structure and the DGI *(math.NT)*
 - **Release 2** — A Geometric Derivation of the Fine Structure Constant *(physics.gen-ph)*
-- **The P18 Lemniscate Framework** — A Geometric Theory of Universal Structure, Scale Invariance, and Deterministic Causality. 31 pages, Parts I–XV, plus a July 2026 update paper (fine structure constant Level-4 term, dark energy w(a), 0.5° band gap closure). [DOI: 10.5281/zenodo.21422545](https://doi.org/10.5281/zenodo.21422545) *(concept DOI — always resolves to the latest version)*
+- **The P18 Lemniscate Framework** — A Geometric Theory of Universal Structure, Scale Invariance, and Deterministic Causality. Three papers under one concept DOI: Paper 1 (31 pages, Parts I–XV, foundational geometry), Paper 2 (July 2026 update — fine structure constant Level-4 term, dark energy w(a), 0.5° band gap closure), and Paper 3, *The Lemniscate as Fundamental Element* (July 2026 — states the foundational axiom explicitly, derives the proton g-factor from three-axis sphere geometry to 0.013%, closes the dark energy equation of state at 0σ from DESI 2024, and maps the complete Standard Model to a prime index table closing at P(18)=61=⌊1/DGI⌋). [DOI: 10.5281/zenodo.21422545](https://doi.org/10.5281/zenodo.21422545) *(concept DOI — always resolves to the latest version)*
 - **Correction Notice** — Applies to all prior Zenodo/GitHub publications
 
 ## Changelog
