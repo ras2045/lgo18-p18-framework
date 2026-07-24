@@ -1,0 +1,5 @@
+geo_os_hal
+*.geostring
+*_geo_manifest.json
+__pycache__/
+*.pyc

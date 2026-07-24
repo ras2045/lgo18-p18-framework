@@ -64,6 +64,7 @@ lgo18_mapper_v4.py     Shell scanner — maps prime dip/lock structure
 connector/             Linux syscall interceptor (ptrace-based)
 ebpf/                  eBPF system-wide interceptor (1M+ syscalls/sec)
 geo_os/                Geometric OS — boots x86-64 without Linux
+geo_os_ingest/          Geo OS v2 — universal OS binary ingestor (ELF/PE/Mach-O/UEFI → geostring)
 P18_CODING_STANDARD.md 11 rules for all P18 code
 P18_PRIME_MAP.md       232 legacy operations → lemniscate positions
 P18_FOUNDATION.md      Integer-only mathematical foundation
